@@ -1,0 +1,16 @@
+1. git & github 
+2. web bán hàng đồ điện tử
+ - html, css, php + xmapp +framework
+
+3. chức năng
+ - user: 
+ + tìm kiếm, thêm giỏ hàng, thông tin cá nhân
+ + lọc sản phẩm
+ + góp ý phản hồi
+- admin:
++ thêm sửa xoá
++ xử lý phản hồi
++ xử lý đơn hàng
++ thống kê
++ quản lý khách hàng
++ quản lý sản phẩm
